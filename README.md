@@ -1,4 +1,4 @@
-# Hi, I’m Pradnya — a final-year B.E. student in Artificial Intelligence & Data Science.
+# Hi, I’m Pradnya — final-year B.E. student in Artificial Intelligence & Data Science.
 Skilled in Java and Python, with a strong interest in AI/ML development.I enjoy building data-driven solutions and aspire to work on large-scale, real-world projects in a professional corporate environment.
 
 
